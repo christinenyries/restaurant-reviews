@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = ./backend
+	url = https://github.com/christinenyries/restaurant-reviews-backend
 [submodule "frontend"]
 	path = frontend
-	url = ./frontend
+	url = https://github.com/christinenyries/restaurant-reviews-frontend
